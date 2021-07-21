@@ -14,8 +14,8 @@ df=pd.read_csv(ubi_gusto,engine='python',sep=',')
 gusto=Transformar(df)
 
 datos_user=Barrios.iloc[78]
-data_filter = Barrios[Barrios['v1'] > 99]
-data_filter
+#data_filter = Barrios[Barrios['v1'] > 99]
+#data_filter
 
 def UNO_SOLO(dt):
     datos_user=Barrios.iloc[dt]
