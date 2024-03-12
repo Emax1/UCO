@@ -1,0 +1,185 @@
+titulo,localizacion,precio,ascensor,baños,trastero,piso,habitaciones,metros_reales,condicion,armarios_empotrados,terraza,balcon,garaje,calefaccion,aire_acondicionado
+Piso en venta en calle Madre Ràfols,Ramón de Carranza - Madre Rafols,310000,1.0,1,0,Primeros_pisos,3.0,89,Segunda mano/buen estado,1,0,1,0,1,1
+Piso en venta en calle Madre Ràfols,Ramón de Carranza - Madre Rafols,310000,1.0,1,0,Primeros_pisos,3.0,89,Segunda mano/buen estado,1,0,1,0,1,1
+Piso en venta en calle Salado,Plaza de Cuba - República Argentina,390000,1.0,2,1,Bajo,3.0,134,Segunda mano/buen estado,1,1,0,1,1,1
+Piso en venta en calle Asunción,Plaza de Cuba - República Argentina,1050000,1.0,2,1,Primeros_pisos,6.0,367,Segunda mano/buen estado,0,1,0,0,0,1
+Piso en venta en Miño,Parque de los Principes - Calle Niebla,300000,1.0,2,0,Muchas_plantas,4.0,133,Segunda mano/para reformar,1,1,1,1,1,0
+Piso en venta en calle Asunción,Plaza de Cuba - República Argentina,350000,1.0,2,0,Primeros_pisos,2.0,98,Segunda mano/buen estado,1,0,1,0,1,1
+Ático en venta en calle Fernando IV s/n,Ramón de Carranza - Madre Rafols,535000,1.0,2,1,Ultimos_pisos,2.0,100,Segunda mano/buen estado,1,1,0,0,1,1
+Piso en venta en avenida Flota de Indias,Ramón de Carranza - Madre Rafols,485000,1.0,2,1,Muchas_plantas,4.0,148,Segunda mano/buen estado,1,0,0,1,1,1
+Piso en venta en calle Salado,Plaza de Cuba - República Argentina,350000,1.0,2,1,Primeros_pisos,2.0,118,Segunda mano/buen estado,1,0,0,1,1,1
+Piso en venta en calle Juan Ramón Jiménez,Ramón de Carranza - Madre Rafols,350000,0.0,2,1,Primeros_pisos,3.0,168,Segunda mano/buen estado,1,1,1,0,0,1
+Piso en venta en calle Asunción,Asunción - Adolfo Suárez,750000,1.0,3,1,Muchas_plantas,4.0,229,Segunda mano/buen estado,1,1,1,0,1,1
+Piso en venta en calle Virgen de Todos los Santos,Parque de los Principes - Calle Niebla,185000,0.0,1,0,Muchas_plantas,3.0,67,Segunda mano/buen estado,0,0,0,1,1,1
+Piso en venta en calle Virgen de la Cinta,Ramón de Carranza - Madre Rafols,548000,1.0,4,1,Muchas_plantas,6.0,194,Segunda mano/buen estado,1,1,1,1,1,0
+Piso en venta en Juan Sebastián Elcano,Asunción - Adolfo Suárez,185000,0.0,1,0,Primeros_pisos,1.0,57,Segunda mano/buen estado,1,0,0,0,0,1
+Piso en venta en Virgen de la Estrella,Ramón de Carranza - Madre Rafols,355000,1.0,2,1,Bajo,3.0,97,Segunda mano/buen estado,1,0,0,0,0,1
+Piso en venta en avenida de la República Argentina,Plaza de Cuba - República Argentina,895000,1.0,4,1,Ultimos_pisos,5.0,277,Segunda mano/buen estado,1,1,0,1,0,1
+Piso en venta en avenida República Argentina,Plaza de Cuba - República Argentina,1090000,1.0,3,0,Primeros_pisos,6.0,308,Segunda mano/buen estado,1,0,0,1,0,1
+Piso en venta en avenida de la Republica Argentina,Plaza de Cuba - República Argentina,680000,1.0,3,0,Primeros_pisos,5.0,247,Segunda mano/buen estado,1,0,0,1,1,0
+Estudio en venta en calle Monte Carmelo,Asunción - Adolfo Suárez,220000,1.0,1,1,Ultimos_pisos,1.0,67,Segunda mano/buen estado,1,1,0,0,1,1
+Ático en venta en avenida República Argentina,Plaza de Cuba - República Argentina,1300000,1.0,3,1,Muchas_plantas,5.0,325,Segunda mano/para reformar,1,1,0,1,1,1
+Piso en venta en Virgen De La Antigua s/n,Ramón de Carranza - Madre Rafols,465000,1.0,2,1,Muchas_plantas,5.0,189,Segunda mano/para reformar,1,1,0,1,0,0
+Piso en venta en Virgen Del Valle s/n,Asunción - Adolfo Suárez,495000,1.0,2,0,Primeros_pisos,5.0,194,Segunda mano/buen estado,1,1,1,0,0,0
+Piso en venta en Flota De Indias s/n,Ramón de Carranza - Madre Rafols,500000,1.0,3,0,Primeros_pisos,4.0,222,Segunda mano/para reformar,1,1,0,1,0,0
+Piso en venta en calle Virgen de la Cinta,Ramón de Carranza - Madre Rafols,250000,1.0,1,0,Muchas_plantas,2.0,72,Segunda mano/buen estado,0,0,0,0,0,1
+Piso en venta en calle Asunción,Asunción - Adolfo Suárez,295000,1.0,2,1,Primeros_pisos,2.0,105,Segunda mano/para reformar,1,1,1,0,0,1
+Piso en venta en plaza de Cuba,Plaza de Cuba - República Argentina,350000,1.0,1,1,Primeros_pisos,2.0,90,Segunda mano/buen estado,1,1,1,0,0,1
+Piso en venta en calle Virgen de la Cinta,Ramón de Carranza - Madre Rafols,210000,1.0,2,0,Primeros_pisos,3.0,82,Segunda mano/buen estado,0,1,0,0,0,0
+Piso en venta en calle Virgen de Luján,Ramón de Carranza - Madre Rafols,475000,1.0,2,0,Ultimos_pisos,5.0,172,Segunda mano/buen estado,1,1,0,0,0,1
+ Chalet adosado en venta en avenida Aeródromo de Tablada,Tablada,360000,0.0,2,0,Muchas_plantas,4.0,137,Segunda mano/buen estado,1,1,1,0,1,0
+Piso en venta en avenida de la República Argentina s/n,Plaza de Cuba - República Argentina,380000,1.0,2,0,Muchas_plantas,4.0,155,Segunda mano/para reformar,1,0,0,0,0,1
+Piso en venta en Virgen de la Antigua,Ramón de Carranza - Madre Rafols,474500,1.0,2,1,Muchas_plantas,6.0,185,Segunda mano/buen estado,1,1,0,1,1,1
+Piso en venta en calle Cristobal Sanchez Fuentes,Ramón de Carranza - Madre Rafols,360000,1.0,2,0,Primeros_pisos,3.0,127,Segunda mano/buen estado,0,1,0,0,1,1
+Piso en venta en avenida República Argentina,Plaza de Cuba - República Argentina,950000,1.0,3,0,Ultimos_pisos,4.0,260,Segunda mano/buen estado,1,0,0,1,0,1
+Piso en venta en calle Virgen de la Cinta,Ramón de Carranza - Madre Rafols,292000,1.0,2,0,Primeros_pisos,3.0,76,Segunda mano/buen estado,1,0,0,0,1,1
+Piso en venta en calle Virgen de Guaditoca,Asunción - Adolfo Suárez,530000,1.0,2,1,Muchas_plantas,4.0,165,Segunda mano/buen estado,1,1,0,0,1,1
+Piso en venta en glorieta de las Cigarreras,Asunción - Adolfo Suárez,1150000,1.0,4,1,Muchas_plantas,4.0,326,Segunda mano/buen estado,1,1,1,1,0,1
+Piso en venta en calle Virgen de Regla,Asunción - Adolfo Suárez,870000,1.0,4,1,Primeros_pisos,4.0,282,Segunda mano/buen estado,1,1,0,1,0,1
+Piso en venta en Asunción - Adolfo Suárez,Los Remedios,460000,1.0,2,0,Primeros_pisos,4.0,166,Segunda mano/buen estado,1,1,1,0,1,1
+"Piso en venta en calle Virgen de Luján, 15",Ramón de Carranza - Madre Rafols,470000,1.0,3,1,Primeros_pisos,3.0,130,Segunda mano/buen estado,1,1,1,1,1,1
+Piso en venta en calle Juan Sebastián Elcano,Asunción - Adolfo Suárez,379000,1.0,2,0,Muchas_plantas,3.0,167,Segunda mano/buen estado,0,1,0,0,0,1
+Piso en venta en Plaza de Cuba - República Argentina,Los Remedios,345000,1.0,2,1,Primeros_pisos,4.0,105,Segunda mano/buen estado,1,1,0,1,1,1
+Piso en venta en Plaza de Cuba - República Argentina,Los Remedios,590000,1.0,2,0,Primeros_pisos,5.0,250,Segunda mano/buen estado,1,1,0,0,1,1
+Piso en venta en calle Asunción,Plaza de Cuba - República Argentina,560000,1.0,3,1,Primeros_pisos,5.0,198,Segunda mano/buen estado,1,0,1,0,0,1
+Piso en venta en Flota De Indias,Ramón de Carranza - Madre Rafols,550000,1.0,2,0,Primeros_pisos,4.0,141,Segunda mano/buen estado,1,1,1,0,0,1
+"Piso en venta en avenida de la República Argentina, 13",Plaza de Cuba - República Argentina,885000,1.0,3,1,Ultimos_pisos,7.0,295,Segunda mano/buen estado,1,1,0,1,0,1
+Piso en venta en calle Virgen de Todos los Santos,Parque de los Principes - Calle Niebla,185000,0.0,1,0,Primeros_pisos,3.0,67,Segunda mano/buen estado,1,1,0,0,0,1
+Piso en venta en calle Juan Ramón Jiménez,Parque de los Principes - Calle Niebla,650000,1.0,3,0,Ultimos_pisos,3.0,170,Segunda mano/buen estado,1,0,0,1,0,1
+Piso en venta en calle Fernando IV,Asunción - Adolfo Suárez,260000,1.0,1,1,Primeros_pisos,3.0,88,Segunda mano/buen estado,1,0,0,0,1,1
+"Piso en venta en calle Asunción, 56",Parque de los Principes - Calle Niebla,450000,1.0,2,0,Ultimos_pisos,3.0,150,Segunda mano/buen estado,0,0,0,0,0,1
+Piso en venta en Virgen de la Antigua,Ramón de Carranza - Madre Rafols,480000,1.0,2,1,Ultimos_pisos,4.0,186,Segunda mano/para reformar,1,1,0,1,0,1
+Piso en venta en avenida Presidente Adolfo Suárez,Asunción - Adolfo Suárez,1000000,1.0,4,1,Primeros_pisos,4.0,249,Segunda mano/para reformar,1,1,0,1,0,1
+Piso en venta en calle Asunción,Asunción - Adolfo Suárez,470000,1.0,2,0,Primeros_pisos,4.0,166,Segunda mano/buen estado,1,1,1,0,0,1
+Piso en venta en calle Virgen de Todos los Santos,Parque de los Principes - Calle Niebla,147000,0.0,1,0,Muchas_plantas,2.0,66,Segunda mano/para reformar,0,0,0,0,0,0
+Piso en venta en calle Monte Carmelo,Asunción - Adolfo Suárez,380000,1.0,2,1,Muchas_plantas,4.0,165,Segunda mano/buen estado,0,1,0,0,0,1
+Piso en venta en calle Virgen de la Antigua,Ramón de Carranza - Madre Rafols,399000,1.0,2,1,Muchas_plantas,4.0,130,Segunda mano/para reformar,1,0,0,1,0,1
+Piso en venta en Av. República Argentina,Plaza de Cuba - República Argentina,590000,1.0,2,0,Ultimos_pisos,4.0,150,Segunda mano/buen estado,1,1,0,0,0,1
+Piso en venta en calle Alfonso de Orleans y Borbón,Tablada,360000,1.0,2,0,Primeros_pisos,3.0,129,Segunda mano/buen estado,1,1,1,0,0,1
+Piso en venta en Cristóbal Sánchez Fuentes,Ramón de Carranza - Madre Rafols,360000,1.0,2,1,Primeros_pisos,3.0,127,Segunda mano/buen estado,1,1,0,1,1,1
+Piso en venta en Parque de los Principes - Calle Niebla,Los Remedios,334895,1.0,2,0,Bajo,2.0,96,Segunda mano/buen estado,1,1,0,0,1,1
+Piso en venta en Plaza de Cuba - República Argentina,Los Remedios,895000,1.0,3,1,Ultimos_pisos,5.0,277,Segunda mano/buen estado,1,1,1,1,1,1
+Piso en venta en Blas Infante,Los Remedios,499900,1.0,3,0,Primeros_pisos,5.0,178,Segunda mano/buen estado,1,1,0,1,1,1
+Piso en venta en Asunción - Adolfo Suárez,Los Remedios,1000000,1.0,4,1,Primeros_pisos,4.0,249,Segunda mano/para reformar,1,1,0,1,1,1
+Piso en venta en Plaza de Cuba - República Argentina,Los Remedios,985000,1.0,3,1,Primeros_pisos,7.0,280,Segunda mano/buen estado,1,1,0,1,0,0
+Piso en venta en Plaza de Cuba - República Argentina,Los Remedios,740000,1.0,3,1,Ultimos_pisos,4.0,240,Segunda mano/para reformar,1,1,0,1,1,0
+"Piso en venta en calle Virgen de Regla, 22",Parque de los Principes - Calle Niebla,390000,1.0,2,1,Muchas_plantas,4.0,142,Segunda mano/para reformar,1,1,1,0,0,0
+Piso en venta en Santa Fe,Plaza de Cuba - República Argentina,920000,1.0,3,1,Muchas_plantas,5.0,250,Segunda mano/buen estado,1,1,0,1,1,1
+Piso en venta en Ramón de Carranza - Madre Rafols,Los Remedios,550000,1.0,2,1,Primeros_pisos,4.0,193,Segunda mano/para reformar,1,1,0,0,1,0
+Piso en venta en calle Asunción,Parque de los Principes - Calle Niebla,525000,1.0,2,1,Muchas_plantas,5.0,191,Segunda mano/para reformar,0,1,0,0,0,0
+Piso en venta en calle Niebla,Plaza de Cuba - República Argentina,175000,0.0,1,0,Bajo,3.0,85,Segunda mano/para reformar,0,1,0,0,0,0
+"Piso en venta en calle Miño, 16 a",Parque de los Principes - Calle Niebla,365000,1.0,2,1,Primeros_pisos,4.0,121,Segunda mano/para reformar,1,0,1,0,0,1
+"Piso en venta en calle Virgen de Begoña, 1",Parque de los Principes - Calle Niebla,433000,1.0,1,1,Muchas_plantas,3.0,92,Segunda mano/buen estado,1,0,1,0,0,1
+Estudio en venta en calle Salado,Plaza de Cuba - República Argentina,155000,1.0,1,0,Primeros_pisos,1.0,30,Segunda mano/buen estado,1,0,0,0,0,1
+Piso en venta en Parque de los Principes - Calle Niebla,Los Remedios,310000,1.0,1,0,Primeros_pisos,3.0,103,Segunda mano/para reformar,0,0,0,0,0,0
+Piso en venta en Plaza de Cuba - República Argentina,Los Remedios,215000,0.0,1,1,Primeros_pisos,3.0,83,Segunda mano/para reformar,0,1,1,0,1,1
+"Ático en venta en asuncion, 73",Asunción - Adolfo Suárez,225000,1.0,1,0,Ultimos_pisos,1.0,60,Segunda mano/buen estado,1,0,1,0,0,1
+Piso en venta en Virgen de la Antigua,Ramón de Carranza - Madre Rafols,474500,1.0,2,1,Ultimos_pisos,5.0,186,Segunda mano/para reformar,0,1,1,1,0,0
+"Piso en venta en calle Monte Carmelo, 33",Asunción - Adolfo Suárez,455000,1.0,2,1,Primeros_pisos,5.0,167,Segunda mano/buen estado,1,1,0,0,1,1
+Piso en venta en Parque de los Principes - Calle Niebla,Los Remedios,159000,0.0,1,0,Ultimos_pisos,3.0,70,Segunda mano/para reformar,0,0,1,0,0,0
+"Ático en venta en calle Asunción, 34",Parque de los Principes - Calle Niebla,649000,1.0,3,1,Ultimos_pisos,3.0,180,Segunda mano/buen estado,1,1,0,0,0,1
+Piso en venta en Asunción - Adolfo Suárez,Los Remedios,475000,1.0,2,1,Muchas_plantas,2.0,96,Segunda mano/buen estado,1,1,0,0,1,1
+"Ático en venta en avenida Juan Pablo II, 7",Tablada,355000,1.0,2,1,Ultimos_pisos,3.0,120,Segunda mano/buen estado,1,1,0,1,0,1
+"Piso en venta en calle Fernando IV, 15",Ramón de Carranza - Madre Rafols,250000,1.0,1,0,Bajo,3.0,127,Segunda mano/para reformar,0,0,0,0,0,0
+"Estudio en venta en calle Salado, 4",Plaza de Cuba - República Argentina,126000,1.0,1,0,Ultimos_pisos,1.0,42,Segunda mano/para reformar,1,0,0,0,1,1
+"Piso en venta en calle Pedro Pérez Fernández, 5",Parque de los Principes - Calle Niebla,243000,1.0,1,0,Muchas_plantas,3.0,90,Segunda mano/buen estado,0,1,0,0,0,1
+"Piso en venta en calle Virgen de Montserrat, 7",Asunción - Adolfo Suárez,310000,1.0,2,0,Primeros_pisos,3.0,117,Segunda mano/buen estado,1,1,0,0,0,1
+"Piso en venta en Santa Fe, 3",Plaza de Cuba - República Argentina,598000,1.0,3,0,Ultimos_pisos,5.0,221,Segunda mano/buen estado,1,1,0,1,0,1
+Piso en venta en Ramón de Carranza - Madre Rafols,Los Remedios,675000,1.0,3,0,Primeros_pisos,4.0,175,Segunda mano/buen estado,1,0,0,0,0,1
+Piso en venta en Asunción - Adolfo Suárez,Los Remedios,299000,1.0,1,0,Bajo,3.0,141,Segunda mano/buen estado,0,0,0,0,0,0
+"Ático en venta en calle Juan Sebastián Elcano, 30",Asunción - Adolfo Suárez,399999,1.0,1,0,Ultimos_pisos,3.0,117,Segunda mano/buen estado,1,1,0,0,0,1
+Piso en venta en avenida de la República Argentina,Plaza de Cuba - República Argentina,1080000,1.0,4,1,Ultimos_pisos,5.0,265,Segunda mano/buen estado,1,0,0,1,0,1
+Piso en venta en calle Fernando IV,Ramón de Carranza - Madre Rafols,345000,0.0,2,0,Primeros_pisos,2.0,117,Segunda mano/buen estado,1,0,0,0,0,1
+ Chalet adosado en venta en avenida Maestranza Aérea s/n,Tablada,300000,0.0,3,0,Muchas_plantas,4.0,140,Segunda mano/para reformar,1,1,0,0,0,1
+Piso en venta en avenida de la República Argentina,Plaza de Cuba - República Argentina,950000,1.0,3,1,Ultimos_pisos,4.0,265,Segunda mano/buen estado,1,0,0,1,0,1
+ Chalet adosado en venta en avenida Maestranza s/n,Tablada,300000,0.0,3,0,Muchas_plantas,4.0,134,Segunda mano/para reformar,1,1,0,0,0,1
+Piso en venta en Av Blas Infante,Blas Infante,515000,1.0,3,0,Primeros_pisos,5.0,187,Segunda mano/buen estado,1,1,0,1,0,1
+Piso en venta en calle Monte Carmelo,Asunción - Adolfo Suárez,379900,1.0,2,0,Primeros_pisos,5.0,149,Segunda mano/buen estado,1,1,0,0,1,1
+Piso en venta en calle Asunción,Asunción - Adolfo Suárez,450000,1.0,3,1,Muchas_plantas,4.0,174,Segunda mano/buen estado,1,1,1,0,1,1
+Piso en venta en calle Naos,Parque de los Principes - Calle Niebla,320000,0.0,1,1,Primeros_pisos,3.0,82,Segunda mano/buen estado,0,1,1,0,1,1
+"Piso en venta en samuel morse, 1 o",Blas Infante,599500,0.0,3,0,Bajo,3.0,154,Segunda mano/buen estado,1,0,0,0,1,1
+Piso en venta en calle Virgen de la Antigua s/n,Ramón de Carranza - Madre Rafols,379000,1.0,2,1,Bajo,4.0,129,Segunda mano/para reformar,0,0,0,1,0,0
+"Piso en venta en Samuel Morse, 5",Blas Infante,595000,0.0,4,0,Bajo,4.0,146,Segunda mano/buen estado,1,0,0,0,1,1
+Piso en venta en calle Virgen del Águila,Ramón de Carranza - Madre Rafols,615000,1.0,3,1,Muchas_plantas,5.0,194,Segunda mano/buen estado,1,1,0,1,1,1
+Piso en venta en calle Virgen de Luján,Parque de los Principes - Calle Niebla,375000,1.0,2,0,Ultimos_pisos,3.0,94,Segunda mano/buen estado,1,1,0,0,0,1
+Piso en venta en calle Alfonso de Orleans y Borbón,Tablada,375500,1.0,2,0,Muchas_plantas,3.0,132,Segunda mano/buen estado,1,1,0,0,1,1
+Piso en venta en Virgen de la Antigua,Ramón de Carranza - Madre Rafols,529000,1.0,2,0,Ultimos_pisos,3.0,186,Segunda mano/buen estado,1,1,0,1,0,0
+Piso en venta en calle Virgen de Luján,Ramón de Carranza - Madre Rafols,509500,1.0,3,0,Ultimos_pisos,6.0,260,Segunda mano/para reformar,0,0,1,0,1,0
+Piso en venta en calle Virgen de Guaditoca,Asunción - Adolfo Suárez,289000,1.0,2,0,Primeros_pisos,3.0,97,Segunda mano/buen estado,1,0,0,0,0,1
+"Piso en venta en calle Virgen del Valle, 38",Parque de los Principes - Calle Niebla,450000,1.0,2,0,Primeros_pisos,3.0,120,Promoción de obra nueva,1,0,1,0,0,1
+"Piso en venta en calle Virgen del Valle, 38",Parque de los Principes - Calle Niebla,470000,1.0,2,0,Bajo,3.0,120,Promoción de obra nueva,1,1,0,0,0,1
+"Piso en venta en calle Virgen del Valle, 38",Parque de los Principes - Calle Niebla,455000,1.0,2,0,Primeros_pisos,3.0,120,Promoción de obra nueva,1,0,1,0,0,1
+"Piso en venta en calle Virgen del Valle, 38",Parque de los Principes - Calle Niebla,460000,1.0,2,0,Primeros_pisos,3.0,120,Promoción de obra nueva,1,0,1,0,0,1
+"Dúplex en venta en calle Virgen del Valle, 38",Parque de los Principes - Calle Niebla,520000,1.0,2,0,Bajo,3.0,129,Promoción de obra nueva,1,1,1,0,0,1
+Piso en venta en Virgen de la Antigua,Ramón de Carranza - Madre Rafols,535000,1.0,2,1,Muchas_plantas,5.0,185,Segunda mano/buen estado,1,1,0,1,1,1
+Piso en venta en avenida de la República Argentina,Plaza de Cuba - República Argentina,720000,1.0,3,0,Primeros_pisos,5.0,247,Segunda mano/buen estado,1,0,0,1,0,1
+Piso en venta en calle Asunción s/n,Asunción - Adolfo Suárez,470000,1.0,2,0,Primeros_pisos,4.0,166,Segunda mano/buen estado,0,1,0,0,0,1
+Piso en venta en avenida Blas Infante,Blas Infante,460000,1.0,3,0,Muchas_plantas,6.0,176,Segunda mano/para reformar,1,1,0,0,1,0
+Piso en venta en avenida de la República Argentina,Plaza de Cuba - República Argentina,745000,1.0,2,1,Primeros_pisos,6.0,224,Segunda mano/para reformar,0,1,1,1,0,0
+Piso en venta en avenida de la República Argentina,Plaza de Cuba - República Argentina,740000,1.0,3,1,Primeros_pisos,5.0,224,Segunda mano/para reformar,1,1,0,1,1,0
+"Piso en venta en avenida de la República Argentina, 50",Plaza de Cuba - República Argentina,800000,1.0,4,1,Ultimos_pisos,5.0,265,Segunda mano/para reformar,1,1,0,1,1,1
+Piso en venta en calle Naos,Parque de los Principes - Calle Niebla,230000,0.0,1,0,Bajo,3.0,77,Segunda mano/buen estado,1,0,0,0,0,1
+Piso en venta en avenida Presidente Adolfo Suárez,Asunción - Adolfo Suárez,168500,1.0,1,0,Ultimos_pisos,1.0,50,Segunda mano/buen estado,1,1,0,0,0,0
+Piso en venta en avenida de la República Argentina,Plaza de Cuba - República Argentina,1125000,1.0,4,1,Ultimos_pisos,4.0,265,Segunda mano/buen estado,1,0,1,1,1,1
+Ático en venta en calle Virgen de la Victoria,Asunción - Adolfo Suárez,460000,1.0,2,1,Muchas_plantas,2.0,97,Segunda mano/buen estado,1,1,0,0,1,1
+Piso en venta en Ramón de Carranza - Madre Rafols,Los Remedios,535000,1.0,2,0,Muchas_plantas,5.0,185,Segunda mano/buen estado,1,1,0,0,1,1
+Piso en venta en Ramón de Carranza - Madre Rafols,Los Remedios,447000,1.0,2,1,Ultimos_pisos,4.0,166,Segunda mano/buen estado,1,1,1,0,1,1
+Piso en venta en calle Virgen del Águila s/n,Ramón de Carranza - Madre Rafols,670000,1.0,3,1,Ultimos_pisos,4.0,224,Segunda mano/buen estado,1,1,0,1,0,1
+Piso en venta en Virgen de la Antigua,Ramón de Carranza - Madre Rafols,386000,1.0,2,1,Bajo,4.0,129,Segunda mano/buen estado,0,0,0,0,1,1
+Piso en venta en plaza De Cuba & Republica argentina,Plaza de Cuba - República Argentina,895000,1.0,3,0,Muchas_plantas,5.0,277,Segunda mano/buen estado,1,1,1,1,1,1
+"Piso en venta en avenida de la República Argentina, 46",Plaza de Cuba - República Argentina,590000,1.0,2,0,Ultimos_pisos,5.0,184,Segunda mano/buen estado,1,1,0,0,1,1
+Ático en venta en avenida de la República Argentina,Plaza de Cuba - República Argentina,1300000,1.0,3,1,Muchas_plantas,4.0,294,Segunda mano/para reformar,1,1,0,1,1,0
+Piso en venta en Fernando IV,Asunción - Adolfo Suárez,210000,0.0,2,0,Primeros_pisos,3.0,85,Segunda mano/para reformar,0,0,0,0,0,0
+Piso en venta en Asunción - Adolfo Suárez,Los Remedios,220000,1.0,1,0,Ultimos_pisos,1.0,60,Segunda mano/buen estado,0,1,0,0,1,0
+Piso en venta en avenida Presidente Adolfo Suárez,Asunción - Adolfo Suárez,168500,1.0,1,0,Muchas_plantas,1.0,51,Segunda mano/buen estado,0,0,0,0,1,0
+Piso en venta en Asunción - Adolfo Suárez,Los Remedios,260000,0.0,2,0,Primeros_pisos,2.0,84,Segunda mano/buen estado,0,0,1,0,1,0
+Ático en venta en Asunción - Adolfo Suárez,Los Remedios,220000,1.0,1,1,Muchas_plantas,1.0,70,Segunda mano/buen estado,1,1,0,0,0,1
+Piso en venta en Ramón de Carranza - Madre Rafols,Los Remedios,430000,1.0,2,1,Bajo,4.0,171,Segunda mano/para reformar,0,0,0,1,1,1
+Piso en venta en calle Hispano Aviación,Tablada,235000,1.0,1,1,Muchas_plantas,2.0,80,Segunda mano/buen estado,1,0,0,1,0,1
+Piso en venta en calle Padre Damián,Ramón de Carranza - Madre Rafols,610000,1.0,2,1,Ultimos_pisos,3.0,150,Segunda mano/buen estado,1,1,0,0,1,1
+Piso en venta en Plaza de Cuba - República Argentina,Los Remedios,680000,1.0,3,0,Primeros_pisos,5.0,247,Segunda mano/buen estado,1,0,0,1,0,1
+Piso en venta en calle Niebla,Plaza de Cuba - República Argentina,250000,0.0,1,0,Primeros_pisos,3.0,84,Segunda mano/buen estado,1,0,0,0,0,1
+Piso en venta en Plaza de Cuba - República Argentina,Los Remedios,850000,1.0,3,1,Muchas_plantas,4.0,235,Segunda mano/buen estado,1,1,1,1,1,1
+Piso en venta en avenida de la República Argentina,Plaza de Cuba - República Argentina,690000,1.0,4,0,Ultimos_pisos,5.0,258,Segunda mano/para reformar,1,1,0,1,1,0
+Piso en venta en avenida Blas Infante,Blas Infante,465000,1.0,3,0,Primeros_pisos,5.0,180,Segunda mano/buen estado,1,1,0,1,1,1
+"Piso en venta en calle Virgen de Guaditoca, 4",Asunción - Adolfo Suárez,285000,1.0,1,0,Primeros_pisos,3.0,97,Segunda mano/buen estado,1,0,0,0,0,1
+Piso en venta en Asunción - Adolfo Suárez,Los Remedios,465000,1.0,2,0,Muchas_plantas,2.0,152,Segunda mano/buen estado,1,0,0,1,1,1
+Ático en venta en Parque de los Principes - Calle Niebla,Los Remedios,460000,1.0,2,1,Muchas_plantas,2.0,96,Segunda mano/buen estado,1,1,0,0,1,1
+"Piso en venta en avenida Presidente Adolfo Suarez, 2",Asunción - Adolfo Suárez,1000000,1.0,4,1,Primeros_pisos,4.0,249,Segunda mano/buen estado,1,1,0,1,0,1
+Piso en venta en Asunción - Adolfo Suárez,Los Remedios,750000,1.0,3,1,Muchas_plantas,6.0,218,Segunda mano/buen estado,1,1,0,1,1,1
+Piso en venta en calle Asunción s/n,Asunción - Adolfo Suárez,525000,1.0,2,1,Primeros_pisos,5.0,190,Segunda mano/para reformar,1,1,0,0,0,1
+Piso en venta en calle Virgen del valle,Parque de los Principes - Calle Niebla,314650,1.0,2,0,Bajo,2.0,96,Segunda mano/buen estado,1,0,0,0,0,0
+ Chalet adosado en venta en Tablada,Los Remedios,302000,0.0,3,0,Primeros_pisos,4.0,140,Segunda mano/para reformar,0,0,0,0,0,0
+Piso en venta en Tablada,Los Remedios,362420,1.0,2,0,Primeros_pisos,3.0,132,Segunda mano/buen estado,1,1,0,0,1,1
+Piso en venta en Plaza de Cuba - República Argentina,Los Remedios,650000,1.0,3,0,Primeros_pisos,5.0,195,Segunda mano/buen estado,1,0,0,1,1,1
+Piso en venta en Ramón de Carranza - Madre Rafols,Los Remedios,400000,1.0,2,0,Muchas_plantas,4.0,161,Segunda mano/para reformar,1,1,0,0,1,0
+Ático en venta en Monte Carmelo,Asunción - Adolfo Suárez,220000,1.0,1,0,Muchas_plantas,1.0,60,Segunda mano/buen estado,0,1,0,0,0,1
+Piso en venta en calle Monte Carmelo,Asunción - Adolfo Suárez,490000,1.0,2,1,Primeros_pisos,5.0,169,Segunda mano/buen estado,1,1,1,0,0,1
+Piso en venta en Ramón de Carranza - Madre Rafols,Los Remedios,280000,1.0,1,1,Bajo,3.0,114,Segunda mano/para reformar,1,0,0,0,0,0
+Ático en venta en Asunción - Adolfo Suárez,Los Remedios,476000,1.0,2,0,Muchas_plantas,4.0,137,Segunda mano/para reformar,1,1,0,0,1,1
+Piso en venta en calle Virgen de la Antigua,Ramón de Carranza - Madre Rafols,280000,1.0,1,1,Bajo,3.0,115,Segunda mano/para reformar,1,0,0,0,0,0
+Piso en venta en calle Virgen de Luján,Asunción - Adolfo Suárez,650000,1.0,4,1,Primeros_pisos,4.0,230,Segunda mano/buen estado,1,1,0,1,1,1
+Piso en venta en Plaza de Cuba - República Argentina,Los Remedios,164999,0.0,1,0,Ultimos_pisos,3.0,82,Segunda mano/buen estado,0,1,0,0,1,1
+Estudio en venta en Asunción - Adolfo Suárez,Los Remedios,140000,1.0,1,0,Bajo,1.0,55,Segunda mano/buen estado,0,0,0,0,1,1
+"Piso en venta en calle Virgen de la Cinta, 22",Ramón de Carranza - Madre Rafols,335000,1.0,2,0,Ultimos_pisos,2.0,94,Segunda mano/buen estado,1,0,0,0,0,1
+Piso en venta en calle Virgen de la Cinta,Ramón de Carranza - Madre Rafols,380000,1.0,2,0,Primeros_pisos,4.0,107,Segunda mano/buen estado,0,0,0,0,1,1
+Ático en venta en Republica Argentina,Plaza de Cuba - República Argentina,1300000,1.0,4,0,Ultimos_pisos,4.0,300,Segunda mano/para reformar,1,1,0,1,1,0
+Piso en venta en calle Montecarmelo,Asunción - Adolfo Suárez,350000,1.0,2,0,Ultimos_pisos,4.0,120,Segunda mano/buen estado,1,1,1,0,0,0
+Piso en venta en avenida de la República Argentina,Plaza de Cuba - República Argentina,800000,1.0,4,0,Ultimos_pisos,5.0,280,Segunda mano/para reformar,1,0,1,1,0,1
+"Piso en venta en calle Fernando IV, 18",Ramón de Carranza - Madre Rafols,345000,0.0,2,0,Muchas_plantas,3.0,117,Segunda mano/buen estado,1,0,0,0,1,1
+"Piso en venta en calle Virgen de la Antigua, 40",Ramón de Carranza - Madre Rafols,399000,1.0,2,1,Bajo,4.0,130,Segunda mano/buen estado,1,0,0,1,0,0
+Piso en venta en Plaza de Cuba - República Argentina,Los Remedios,895000,1.0,3,0,Ultimos_pisos,5.0,277,Segunda mano/buen estado,1,1,1,1,1,1
+Piso en venta en Ramón de Carranza - Madre Rafols,Los Remedios,380000,1.0,2,0,Primeros_pisos,3.0,107,Segunda mano/buen estado,0,0,0,0,1,1
+Piso en venta en Asunción - Adolfo Suárez,Los Remedios,710000,1.0,4,1,Ultimos_pisos,5.0,232,Segunda mano/buen estado,1,1,0,1,1,1
+Piso en venta en Asunción - Adolfo Suárez,Los Remedios,710000,1.0,4,1,Ultimos_pisos,5.0,232,Segunda mano/buen estado,1,1,0,1,1,1
+"Estudio en venta en calle Salado, 4",Plaza de Cuba - República Argentina,155000,1.0,1,0,Primeros_pisos,1.0,32,Segunda mano/buen estado,1,0,0,0,0,1
+"Piso en venta en calle Monte Carmelo, 63",Asunción - Adolfo Suárez,350000,1.0,2,0,Ultimos_pisos,4.0,120,Segunda mano/para reformar,1,1,0,0,0,1
+Piso en venta en Asunción - Adolfo Suárez,Los Remedios,220000,0.0,1,0,Primeros_pisos,3.0,85,Segunda mano/para reformar,0,1,0,0,1,0
+"Piso en venta en calle Hispano Aviación, 4",Tablada,330000,1.0,1,1,Ultimos_pisos,2.0,90,Segunda mano/buen estado,1,0,0,1,1,1
+Ático en venta en República Argentina,Plaza de Cuba - República Argentina,1100000,1.0,3,0,Ultimos_pisos,3.0,313,Segunda mano/para reformar,1,1,0,1,0,0
+Piso en venta en avenida de la República Argentina,Plaza de Cuba - República Argentina,559000,1.0,3,0,Ultimos_pisos,4.0,150,Segunda mano/buen estado,1,1,0,0,0,1
+Ático en venta en avenida Republica Argentina,Plaza de Cuba - República Argentina,740000,1.0,2,1,Ultimos_pisos,4.0,230,Segunda mano/para reformar,0,1,0,1,0,0
+Piso en venta en Asunción - Adolfo Suárez,Los Remedios,399500,1.0,2,0,Primeros_pisos,3.0,143,Segunda mano/buen estado,0,0,0,0,0,0
+"Ático en venta en calle Monte Carmelo, 78",Asunción - Adolfo Suárez,220000,1.0,1,1,Muchas_plantas,1.0,62,Segunda mano/buen estado,1,1,0,0,1,1
+"Piso en venta en avenida República Argentina, 43",Plaza de Cuba - República Argentina,460000,1.0,1,0,Muchas_plantas,2.0,102,Segunda mano/buen estado,1,1,0,1,0,0
+"Piso en venta en calle Arqueros, 6",Parque de los Principes - Calle Niebla,210000,0.0,1,1,Primeros_pisos,3.0,80,Segunda mano/buen estado,0,1,0,0,0,0
