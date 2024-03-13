@@ -175,8 +175,8 @@ def MUESTRA_VIVIENDAS(df_encoded,nuevos_datos,id_deseo,pesos):
     Distancias_totales=np.concatenate((dis2, dis1,dis0))
 
     # Imprimir los índices y distancias de los vecinos más cercanos
-    print("Índices de vecinos más cercanos:", Indices_totales)
-    print("Distancias de vecinos más cercanos:", Distancias_totales)
+    #print("Índices de vecinos más cercanos:", Indices_totales)
+    #print("Distancias de vecinos más cercanos:", Distancias_totales)
     lista_indices = Indices_totales.tolist()
 
     TOP7_HOUSIG=df_encoded.iloc[lista_indices]
