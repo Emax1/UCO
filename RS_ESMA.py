@@ -195,6 +195,6 @@ def DF_VALORADOS(viviendas,deseos,id_deseo,pesos,n_deseos):
         df_valorado = df_valorado.append(df0, ignore_index=True)
     relevantes=Counter(df_valorado['Relevante'])['relevante']
     norelevantes=Counter(df_valorado['Relevante'])['no relevante']
-    contador=relevantes/norelevantes*100
-    print('RELEVANTES',relevantes,'/NO RELEVANTES',norelevantes,'--->Top-K PRECISION:',contador,"%")
-    return df_valorado
+    precision=relevantes/norelevantes*100
+    #print('RELEVANTES',relevantes,'/NO RELEVANTES',norelevantes,'--->Top-K PRECISION:',precision,"%")
+    return df_valorado,relevantes,norelevantes,precision
