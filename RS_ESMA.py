@@ -89,7 +89,7 @@ def MUESTRA_VIVIENDAS(df_encoded,nuevos_datos,id_deseo,pesos):
     u.T
     u.T[[1]]
 
-    Counter(labelsFZ)
+    #Counter(labelsFZ)
     #Counter(labels)
     
     #MODELO DE PREDICCIÓN
@@ -108,22 +108,22 @@ def MUESTRA_VIVIENDAS(df_encoded,nuevos_datos,id_deseo,pesos):
     df_encoded_clase=df_encoded.copy()
 
     df_encoded_clase['CLUSTER']=labelsFZ
-    df_encoded_clase.info()
+    #df_encoded_clase.info()
 
 
     # Filtrar los datos por la característica de la columna 'CLUSTER'
     viviendas_C2= df_encoded_clase[df_encoded_clase['CLUSTER'] == 2]
-    viviendas_C2.info()
+    #viviendas_C2.info()
 
     viviendas_C1= df_encoded_clase[df_encoded_clase['CLUSTER'] == 1]
-    viviendas_C1.info()
+    #viviendas_C1.info()
 
 
     viviendas_C0= df_encoded_clase[df_encoded_clase['CLUSTER'] == 0]
-    viviendas_C0.info()
+    #viviendas_C0.info()
 
     #Cluster 2:2 ,Cluster 1:5 ,Cluster 0:0
-    Counter(labelsFZ)
+    #Counter(labelsFZ)
 
 
     #Vecinos mas cercanos de cada cLuster con respecto a los deseos del 
@@ -180,9 +180,9 @@ def MUESTRA_VIVIENDAS(df_encoded,nuevos_datos,id_deseo,pesos):
     lista_indices = Indices_totales.tolist()
 
     TOP7_HOUSIG=df_encoded.iloc[lista_indices]
-    nuevos_datos.values
-    TOP7_HOUSIG.columns
-    TOP7_HOUSIG.iloc[[0]].values
+    #nuevos_datos.values
+    #TOP7_HOUSIG.columns
+    #TOP7_HOUSIG.iloc[[0]].values
     relevancia=CALIFICAR_VIVIENDAS(nuevos_datos, TOP7_HOUSIG,id_deseo,lista_indices,pesos)
     #return TOP7_HOUSIG,ic2,ic1,ic0,relevancia
     #return TOP7_HOUSIG,relevancia
