@@ -54,7 +54,7 @@ def datos_encode ():
     encoded_cols = encoder.fit_transform(df_vivienda1[["localizacion", "piso", "condicion"]])
     
     # Creamos un DataFrame con las columnas codificadas
-    encoded_df = pd.DataFrame(encoded_cols, columns=encoder.get_feature_names(["localizacion", "piso", "condicion"]))
+    encoded_df = pd.DataFrame(encoded_cols, columns=encoder.get_feature_names_out(["localizacion", "piso", "condicion"]))
     
     # Concatenamos el DataFrame codificado con el DataFrame original
     df_encoded = pd.concat([df_vivienda1.drop(["localizacion", "piso", "condicion"], axis=1), encoded_df], axis=1)
