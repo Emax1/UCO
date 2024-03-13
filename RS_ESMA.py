@@ -187,3 +187,10 @@ def MUESTRA_VIVIENDAS(df_encoded,nuevos_datos,id_deseo,pesos):
     #return TOP7_HOUSIG,ic2,ic1,ic0,relevancia
     #return TOP7_HOUSIG,relevancia
     return relevancia
+
+def DF_VALORADOS(viviendas,deseos,id_deseo,pesos,n_deseos):
+    df_valorado = pd.DataFrame()
+    for i in range(len(n_deseos)):
+        df0=MUESTRA_VIVIENDAS(viviendas,deseos.iloc[[n_deseos[i]]],id_deseo,pesos)
+        df_valorado = df_valorado.append(df0, ignore_index=True)
+    return df_valorado
