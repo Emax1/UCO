@@ -90,7 +90,7 @@ def MUESTRA_VIVIENDAS(df_encoded,nuevos_datos,id_deseo,pesos):
     u.T[[1]]
 
     Counter(labelsFZ)
-    Counter(labels)
+    #Counter(labels)
     
     #MODELO DE PREDICCIÓN
     u_pred, _, _, _,_,_ = fuzz.cluster.cmeans_predict(
