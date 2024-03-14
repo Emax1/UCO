@@ -192,7 +192,8 @@ def DF_VALORADOS(viviendas,deseos,id_deseo,pesos,n_deseos):
     df_valorado = pd.DataFrame()
     for i in range(len(n_deseos)):
         df0=MUESTRA_VIVIENDAS(viviendas,deseos.iloc[[n_deseos[i]]],id_deseo,pesos)
-        df_valorado = df_valorado.append(df0, ignore_index=True)
+        #df_valorado = df_valorado.append(df0, ignore_index=True)
+        df_valorado = pd.concat([df_valorado, df0], ignore_index=True)
     relevantes=Counter(df_valorado['Relevante'])['relevante']
     norelevantes=Counter(df_valorado['Relevante'])['no relevante']
     precision=relevantes/norelevantes*100
