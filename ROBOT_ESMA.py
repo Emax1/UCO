@@ -20,7 +20,7 @@ from collections import Counter
 
 
 
-def ACCION_LOCALIZACION(localizacion):
+def ACCION_LOCALIZACION(localizacion,driver):
     if localizacion == 'Ramón de Carranza - Madre Rafols':
         numero = 1
     elif localizacion == 'Los Remedios':
@@ -40,7 +40,7 @@ def ACCION_LOCALIZACION(localizacion):
     driver.find_element(By.XPATH,id_elemento).click()
     
 
-def ACCION_ASCENSOR(var1):
+def ACCION_ASCENSOR(var1,driver):
     if var1 == 1:
         numero = 2
     elif var1 == 0:
@@ -51,7 +51,7 @@ def ACCION_ASCENSOR(var1):
     
 
 
-def ACCION_BANOS(var1):
+def ACCION_BANOS(var1,driver):
     #return id_elemento
     numero=var1-1
     slideFrom = driver.find_element(By.XPATH,"/html/body/bslib-layout-columns/div[1]/div/div/bslib-layout-columns/div[1]/div/div/div[3]/span/span[3]")#.click()
@@ -61,7 +61,7 @@ def ACCION_BANOS(var1):
     actions.move_by_offset(numero*100, 0).release().perform()
 
 
-def ACCION_TRASTERO(var1):
+def ACCION_TRASTERO(var1,driver):
     if var1 == 1:
         numero = 2
     elif var1 == 0:
@@ -72,7 +72,7 @@ def ACCION_TRASTERO(var1):
     
 
 
-def ACCION_PISO(var1):
+def ACCION_PISO(var1,driver):
     if var1 == 'Bajo':
         numero = 1
     elif var1 == 'Muchas_plantas':
@@ -88,7 +88,7 @@ def ACCION_PISO(var1):
     
 
 
-def ACCION_HABITACIONES(var1):
+def ACCION_HABITACIONES(var1,driver):
     #return id_elemento
     numero=var1-1
     slideFrom = driver.find_element(By.XPATH,"/html/body/bslib-layout-columns/div[1]/div/div/bslib-layout-columns/div[1]/div/div/div[6]/span/span[1]/span[6]")#.click()
@@ -107,7 +107,7 @@ def ACCION_HABITACIONES(var1):
     #6*100/2
 
 
-def ACCION_METROS2(var1):
+def ACCION_METROS2(var1,driver):
     ##### LLENAR UN CUADRO DE TEXTO
     cuadro_texto =driver.find_element(By.ID,"metros_cuadrados")#.click()
 
@@ -120,7 +120,7 @@ def ACCION_METROS2(var1):
 
 
 
-def ACCION_CONDICION(var1):
+def ACCION_CONDICION(var1,driver):
     if var1 == 'Segunda mano/buen estado':
         numero = 1
     elif var1 == 'Segunda mano/para reformar':
@@ -133,7 +133,7 @@ def ACCION_CONDICION(var1):
     
 
 
-def ACCION_ARMARIOS(var1):
+def ACCION_ARMARIOS(var1,driver):
     if var1 == 1:
         numero = 2
     elif var1 == 0:
@@ -143,7 +143,7 @@ def ACCION_ARMARIOS(var1):
     driver.find_element(By.XPATH,id_elemento).click()
 
 
-def ACCION_TERRAZA(var1):
+def ACCION_TERRAZA(var1,driver):
     if var1 == 1:
         numero = 2
     elif var1 == 0:
@@ -153,7 +153,7 @@ def ACCION_TERRAZA(var1):
     driver.find_element(By.XPATH,id_elemento).click()
 
 
-def ACCION_BALCON(var1):
+def ACCION_BALCON(var1,driver):
     if var1 == 1:
         numero = 2
     elif var1 == 0:
@@ -164,7 +164,7 @@ def ACCION_BALCON(var1):
 
 
 
-def ACCION_GARAJE(var1):
+def ACCION_GARAJE(var1,driver):
     if var1 == 1:
         numero = 2
     elif var1 == 0:
@@ -174,7 +174,7 @@ def ACCION_GARAJE(var1):
     driver.find_element(By.XPATH,id_elemento).click()
 
 
-def ACCION_CALEFACCION(var1):
+def ACCION_CALEFACCION(var1,driver):
     if var1 == 1:
         numero = 2
     elif var1 == 0:
@@ -185,7 +185,7 @@ def ACCION_CALEFACCION(var1):
 
 
 
-def ACCION_AIRE_ACONDICIONADO(var1):
+def ACCION_AIRE_ACONDICIONADO(var1,driver):
     if var1 == 1:
         numero = 2
     elif var1 == 0:
@@ -195,7 +195,7 @@ def ACCION_AIRE_ACONDICIONADO(var1):
     driver.find_element(By.XPATH,id_elemento).click()
 
 
-def SELECCION_CARACTERISTICA(df_casas):
+def SELECCION_CARACTERISTICA(df_casas,driver):
     numero_aleatorio = random.randint(1, len(df_casas))
     localizacion=df_casas.iloc[numero_aleatorio]['localizacion']
     precio=df_casas.iloc[numero_aleatorio]['precio']
@@ -213,17 +213,17 @@ def SELECCION_CARACTERISTICA(df_casas):
     calefaccion=df_casas.iloc[numero_aleatorio]['calefaccion']
     aire_acondicionado=df_casas.iloc[numero_aleatorio]['aire_acondicionado']
     #numero=[]
-    ACCION_LOCALIZACION(localizacion)
-    ACCION_ASCENSOR(ascensor)
-    ACCION_BANOS(banos)
-    ACCION_TRASTERO(trastero)
-    ACCION_PISO(piso)
-    ACCION_HABITACIONES(habitaciones)
-    ACCION_METROS2(metros_reales)
-    ACCION_CONDICION(condicion)
-    ACCION_ARMARIOS(armarios_empotrados)
-    ACCION_TERRAZA(terraza)
-    ACCION_BALCON(balcon)
-    ACCION_GARAJE(garaje)
-    ACCION_CALEFACCION(garaje)
-    ACCION_AIRE_ACONDICIONADO(aire_acondicionado)
+    ACCION_LOCALIZACION(localizacion,driver)
+    ACCION_ASCENSOR(ascensor,driver)
+    ACCION_BANOS(banos,driver)
+    ACCION_TRASTERO(trastero,driver)
+    ACCION_PISO(piso,driver)
+    ACCION_HABITACIONES(habitaciones,driver)
+    ACCION_METROS2(metros_reales,driver)
+    ACCION_CONDICION(condicion,driver)
+    ACCION_ARMARIOS(armarios_empotrados,driver)
+    ACCION_TERRAZA(terraza,driver)
+    ACCION_BALCON(balcon,driver)
+    ACCION_GARAJE(garaje,driver)
+    ACCION_CALEFACCION(garaje,driver)
+    ACCION_AIRE_ACONDICIONADO(aire_acondicionado,driver)
