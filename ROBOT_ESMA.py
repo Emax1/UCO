@@ -227,3 +227,22 @@ def SELECCION_CARACTERISTICA(df_casas,driver):
     ACCION_GARAJE(garaje,driver)
     ACCION_CALEFACCION(garaje,driver)
     ACCION_AIRE_ACONDICIONADO(aire_acondicionado,driver)
+
+
+# Bucle while para actualizar la página cada cierto intervalo de tiempo
+def SIMULAR_AGENTE(df_casas,driver):
+    while True:
+        SELECCION_CARACTERISTICA(df_casas,driver)
+        time.sleep(7)
+        driver.find_element(By.ID,'btnMemb').click()
+        # Espera unos segundos para que aparezca la ventana emergente
+        time.sleep(5)
+        # Inicia una nueva aplicación para la ventana emergente
+        app = Application(backend="uia").connect(title="Figure 1")
+        # Encuentra y cierra la ventana emergente
+        app.window(title="Figure 1").close()
+        time.sleep(5)
+        driver.find_element(By.ID,'btn').click()
+        #btnMemb
+        time.sleep(5)
+        driver.refresh()
