@@ -227,8 +227,40 @@ def SELECCION_CARACTERISTICA(df_casas,driver):
     ACCION_GARAJE(garaje,driver)
     ACCION_CALEFACCION(garaje,driver)
     ACCION_AIRE_ACONDICIONADO(aire_acondicionado,driver)
+    
+def CALIFICAR_CHECKBOX(numero,relevancia,driver):
+    if 70 <= relevancia <= 80:
+        driver.find_element(By.XPATH,'//*[@id="time'+numero+'"]/div/label[1]/input').click()
+    elif 81 <= relevancia <= 90:
+        driver.find_element(By.XPATH,'//*[@id="time'+numero+'"]/div/label[1]/input').click()
+        driver.find_element(By.XPATH,'//*[@id="time'+numero+'"]/div/label[2]/input').click()
+    elif 91 <= relevancia <= 100:
+        driver.find_element(By.XPATH,'//*[@id="time'+numero+'"]/div/label[1]/input').click()
+        driver.find_element(By.XPATH,'//*[@id="time'+numero+'"]/div/label[2]/input').click()
+        driver.find_element(By.XPATH,'//*[@id="time'+numero+'"]/div/label[3]/input').click()
+        
 
+def GENERADOR_RELEVANCIA():
+    rlv=random.randint(50, 100)
+    rlv1=random.randint(50, 100)
+    rlv2=random.randint(50, 100)
+    rlv3=random.randint(50, 100)
+    rlv4=random.randint(50, 100)
+    rlv5=random.randint(50, 100)
+    rlv6=random.randint(50, 100)
+    return rlv,rlv1,rlv2,rlv3,rlv4,rlv5,rlv6
 
+def ACTIVAR_DESACTIVAR_CHEKBOX(rlv,rlv1,rlv2,rlv3,rlv4,rlv5,rlv6,driver):
+    #rlv relevancia obtenido del data frame
+    CALIFICAR_CHECKBOX("",rlv,driver)
+    CALIFICAR_CHECKBOX(str(1),rlv1,driver)
+    CALIFICAR_CHECKBOX(str(2),rlv2,driver)
+    CALIFICAR_CHECKBOX(str(3),rlv3,driver)
+    CALIFICAR_CHECKBOX(str(4),rlv4,driver)
+    CALIFICAR_CHECKBOX(str(5),rlv5,driver)
+    CALIFICAR_CHECKBOX(str(6),rlv6,driver)        
+
+    
 # Bucle while para actualizar la página cada cierto intervalo de tiempo
 def SIMULAR_AGENTE(df_casas,driver):
     while True:
@@ -236,13 +268,25 @@ def SIMULAR_AGENTE(df_casas,driver):
         time.sleep(7)
         driver.find_element(By.ID,'btnMemb').click()
         # Espera unos segundos para que aparezca la ventana emergente
-        time.sleep(5)
+        time.sleep(3)
         # Inicia una nueva aplicación para la ventana emergente
         app = Application(backend="uia").connect(title="Figure 1")
         # Encuentra y cierra la ventana emergente
         app.window(title="Figure 1").close()
-        time.sleep(5)
+        time.sleep(3)
         driver.find_element(By.ID,'btn').click()
+        time.sleep(3)
+        rlv,rlv1,rlv2,rlv3,rlv4,rlv5,rlv6=GENERADOR_RELEVANCIA()
+        ACTIVAR_DESACTIVAR_CHEKBOX(rlv,rlv1,rlv2,rlv3,rlv4,rlv5,rlv6,driver)
+        
+        time.sleep(2)
+        
+        driver.find_element(By.ID,'btnCal').click()
+        time.sleep(2)
+        
+        driver.find_element(By.XPATH,'//*[@id="shiny-modal"]/div/div/div[3]/button').click()
+        
+        ACTIVAR_DESACTIVAR_CHEKBOX(rlv,rlv1,rlv2,rlv3,rlv4,rlv5,rlv6,driver)
         #btnMemb
-        time.sleep(5)
+        time.sleep(2)
         driver.refresh()
