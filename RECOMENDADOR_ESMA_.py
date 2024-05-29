@@ -94,7 +94,7 @@ def MD_FUZZY(cntr,id_preferencia,preferencias,user_data):
     #preferecnias son datos_nuevos
     similarity = cosine_similarity(preferecniasLog10, TOP_HOUSIG)
     
-    add_user_data(user_data, f'PREFERENCIA_{id_preferencia}', viviendas_indices, viviendas_distancias, similarity)
+    add_user_data(user_data, f'N_{id_preferencia}', viviendas_indices, viviendas_distancias, similarity)
     
     viviendas_indices
     viviendas_distancias
